@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Combobox Items
+
 namespace _3LayersModel.DTO
 {
     internal class CBBItem
